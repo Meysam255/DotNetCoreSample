@@ -132,3 +132,41 @@ F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Web\obj\Debu
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.dll
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.pdb
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.g.cshtml.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.deps.json
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.runtimeconfig.json
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.runtimeconfig.dev.json
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.Views.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Web.Views.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Core.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.Core.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.csproj.AssemblyReference.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.AssemblyInfo.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.RazorAssemblyInfo.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.RazorAssemblyInfo.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.TagHelpers.input.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.TagHelpers.output.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.RazorCoreGenerate.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DefaultLayout.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MetaTags.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Styles.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.RazorTargetAssemblyInfo.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.RazorTargetAssemblyInfo.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.Views.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.csproj.CopyComplete
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Web\obj\Debug\netcoreapp2.1\TopLearn.Web.genruntimeconfig.cache

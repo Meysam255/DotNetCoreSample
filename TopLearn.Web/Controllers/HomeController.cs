@@ -9,6 +9,7 @@ namespace TopLearn.Web.Controllers
     public class HomeController : Controller
     {
         public IActionResult Index() => View();
-
+        
+        public string Test() => "test";
     }
 }

@@ -45,3 +45,15 @@ F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Core\obj\Deb
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.csproj.CopyComplete
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.dll
 F:\Asp.Net Core 2 Advanded\06_Asp.NetCore2Advance\TopLearn\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\bin\Debug\netcoreapp2.1\TopLearn.Core.deps.json
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\bin\Debug\netcoreapp2.1\TopLearn.Core.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\bin\Debug\netcoreapp2.1\TopLearn.Core.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.csproj.AssemblyReference.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.AssemblyInfoInputs.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.AssemblyInfo.cs
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.csproj.CoreCompileInputs.cache
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.csproj.CopyComplete
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.dll
+C:\Users\meysam\Desktop\DotNetCoreSample\TopLearn.Core\obj\Debug\netcoreapp2.1\TopLearn.Core.pdb
