@@ -10,6 +10,5 @@ namespace TopLearn.Web.Controllers
     {
         public IActionResult Index() => View();
         
-        public string Test() => "test";
     }
 }
